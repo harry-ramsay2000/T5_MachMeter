@@ -1,15 +1,4 @@
----
-title: "MachMeter Pressure Plotting"
-author: [Harry Ramsay]
-date: "July 2022"
-lang: "en"
-titlepage: true
-titlepage-rule-height: 0
-titlepage-text-color: "FFFFFF"
-titlepage-background: "C:/PATH/Backgrounds/background.pdf"
----
-
-# Installation
+## Installation
 
 In order to run the plotting script a number of Python packages will need to be installed. This is easily using the Python package manager. This can be done from a Windows command prompt or PowerShell window with the commands listed below. The required packages are:
 
