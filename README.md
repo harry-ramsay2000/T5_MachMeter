@@ -11,7 +11,7 @@ The plotting script can now be run.
 
 ## Running the Script
 
-Running the script can be done by calling the script in a command prompt or PowerShell terminal window, opening the `.py` file with Python from the file explorer or by opening the file in VS Code and running the script in the integrated terminal.
+Running the script can be done by calling the downloaded python script in a command prompt or PowerShell terminal window, opening the `.py` file with Python from the file explorer or by opening the file in VS Code and running the script in the integrated terminal.
 
 With a terminal window open in the script script folder, call the script with `python MachMeterPlot.py`. Once done, a file explorer window will open and the relevant `.lvm` file should be selected.
 Once opened, the terminal will ask whether all channels should be plot. Answering with `y`, and confirming the input with the <kbd>ENTER</kbd> key, will plot all channels and the terminal will display the columns to be read from the file for verification. The user will then be asked whether to include the tunnel static pressure line on the plot - answer `y` or `n` to show or hide this channel.
